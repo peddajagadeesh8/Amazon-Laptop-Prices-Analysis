@@ -16,7 +16,7 @@ The purpose of analyzing laptop prices on Amazon is to understand how much lapto
    - Visualizing various aspects of the air quality dataset using matplotlib.
 
 ## Introduction
-This section outlines the objectives of the "Used Car Market Analysis" project and the importance of analyzing used car datasets. It highlights the significance of understanding the factors influencing the selling prices of used cars in India, supporting better decision-making for buyers and sellers and contributing to a more transparent market.
+This dataset consists of comprehensive collection of latest available laptops scraped from Amazon.com. The data includes product details such as the rating, price, operating system, title, review count, and display size. This dataset comprises approximately 4.5K data points, each representing a unique laptop listing, and includes 14 distinct features.
 
 ## Data Loading and Initial Exploration
 In this part of the project, the CarDekho dataset containing detailed information on used cars is loaded into a DataFrame using the pandas library. Basic exploratory data analysis is conducted, including displaying the first few rows, checking data types, and generating summary statistics to gain initial insights into the dataset.
