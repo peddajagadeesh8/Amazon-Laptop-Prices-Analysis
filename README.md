@@ -15,19 +15,19 @@ The purpose of analyzing laptop prices on Amazon is to understand how much lapto
 5. **Data Visualization**
    - Visualizing various aspects of the air quality dataset using matplotlib.
 
-## Introduction
+## 1. Introduction
 This dataset consists of comprehensive collection of latest available laptops scraped from Amazon.com. The data includes product details such as the rating, price, operating system, title, review count, and display size. This dataset comprises approximately 4.5K data points, each representing a unique laptop listing, and includes 14 distinct features.
 
-## Data Loading and Initial Exploration
+## 2. Data Loading and Initial Exploration
 In this part of the project, the CarDekho dataset containing detailed information on used cars is loaded into a DataFrame using the pandas library. Basic exploratory data analysis is conducted, including displaying the first few rows, checking data types, and generating summary statistics to gain initial insights into the dataset.
 
-## Data Cleaning and Manipulation
+## 3. Data Cleaning and Manipulation
 Data cleaning and manipulation techniques are applied to prepare the dataset for thorough analysis. This includes handling missing values, removing duplicate entries, and filtering data based on specific criteria such as year of manufacture and fuel type, ensuring that the dataset is robust and reliable for analysis.
 
-## Data Sorting, Searching, and Validation
+## 4. Data Sorting, Searching, and Validation
 The dataset undergoes sorting, searching, and validation to extract relevant information and ensure data integrity. This section covers sorting the data by features like price and kilometers driven, searching for specific car models or brands, and validating the consistency and accuracy of the dataset entries.
 
-## Data Visualization
+## 5. Data Visualization
 Visualizations are created using Matplotlib and Seaborn to explore various aspects of the used car market. This includes generating plots such as histograms for price distributions, line plots for price trends over time, and box plots to compare the price distributions across different fuel types.
 
 ## Conclusion
