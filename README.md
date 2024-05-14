@@ -1,7 +1,6 @@
-# Used Car Market Analysis
+# Amazon Laptop Prices Analysis
 ## Purpose
-This project, "Used Car Market Analysis," leverages powerful Python libraries such as Pandas and Matplotlib to perform a comprehensive analysis of the used car market in India using the CarDekho dataset. 
-<br/>Our aim is to understand the factors influencing the selling prices of used cars, examining key attributes such as mileage, engine size, and fuel type. The insights derived from this analysis are intended to assist both buyers and sellers in making informed decisions, thereby enhancing transparency and efficiency in the market.
+The purpose of analyzing laptop prices on Amazon is to understand how much laptops cost on the platform and what factors influence those prices. This analysis helps consumers make informed decisions about which laptop to buy by providing insights into pricing trends, variations between different models, and the impact of factors like brand, specifications, and geographical location on prices. In simple terms, it's about helping people figure out the best value for their money when shopping for laptops online.
 ## Table of Contents
 1. **Introduction**
    - Overview of the project and its objectives.
