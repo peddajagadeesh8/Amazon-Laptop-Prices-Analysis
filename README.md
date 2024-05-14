@@ -7,7 +7,16 @@ This dataset consists of comprehensive collection of latest available laptops sc
 - Matplotlib
 - Seaborn
 ### Definition
-"Amazon Laptop Prices Analysis" refers to the process of examining and understanding the various prices of laptops listed on the Amazon website. This analysis involves studying factors like the range of prices, trends over time, and differences between various laptop models. It helps people make informed decisions about which laptop to buy by providing insights into pricing patterns and options available on the Amazon platform.
+- Examining Prices: Reviewing the costs of laptops available on Amazon.
+- Understanding Price Range: Observing the spectrum of prices for different laptop models.
+- Analyzing Trends: Studying how prices change over time, such as during sales seasons or product launches.
+- Comparing Models: Contrasting the prices of various laptop brands, specifications, and features.
+- Informing Decisions: Providing insights to help users make informed decisions about purchasing a laptop on Amazon.
+- Identifying Patterns: Noticing recurring pricing patterns or fluctuations in the market.
+- Tracking Changes: Monitoring adjustments in prices for specific laptops or categories.
+- Considering Factors: Taking into account factors like reviews, ratings, and seller reputations alongside prices.
+- Optimizing Value: Seeking the best combination of price, features, and quality when buying a laptop.
+- Utilizing Data: Using data from the analysis to make smarter purchasing decisions and potentially save money.
 ### Regional trends
 Among states, majority of suicides were reported in Maharashtra (22,746) followed by 19,834 in Tamil Nadu and 15,386 in Madhya Pradesh. Four states - Maharashtra, Tamil Nadu, Karnataka, West Bengal - together accounted for nearly half of the total suicides reported in the country.
 ### Suicide in India
