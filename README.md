@@ -23,6 +23,18 @@ In today's digital age, laptops have become essential tools for work, education,
 
 We'll begin by collecting data from Amazon, including information about various laptop models, their prices, and other relevant details. Next, we'll clean and preprocess the data to ensure its accuracy and consistency. Then, we'll delve into exploratory data analysis to uncover patterns, trends, and correlations in the data.
 
+### What We Hope to Discover
+
+### Through our analysis, we hope to answer questions such as:
+
+- How do laptop prices vary across different brands, models, and specifications?
+- Are there any notable trends or patterns in laptop pricing over time?
+- Do geographical regions influence laptop prices on Amazon?
+- What factors contribute to fluctuations in laptop prices?
+- Expected Outcomes
+
+By the end of this project, we aim to provide valuable insights into the factors that affect laptop prices on Amazon. Armed with this knowledge, consumers can make more informed purchasing decisions, and businesses can gain a better understanding of the competitive landscape in the online laptop market.
+
 Contextual information about the significance of Amazon as a marketplace for laptops.
 Explanation of why understanding price trends is important for consumers or businesses.
 Data Collection
