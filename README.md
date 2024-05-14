@@ -7,11 +7,7 @@ This dataset consists of comprehensive collection of latest available laptops sc
 - Matplotlib
 - Seaborn
 ### Definition
-The Government of India classifies a death as suicide if it meets the following three criteria:
-   - death
-   - The intent to die originated within the person.
-   - There is a reason for the person to end his or her life. The reason may have been specified in a suicide 
-        note or unspecified.
+"Amazon Laptop Prices Analysis" refers to the process of examining and understanding the various prices of laptops listed on the Amazon website. This analysis involves studying factors like the range of prices, trends over time, and differences between various laptop models. It helps people make informed decisions about which laptop to buy by providing insights into pricing patterns and options available on the Amazon platform.
 ### Regional trends
 Among states, majority of suicides were reported in Maharashtra (22,746) followed by 19,834 in Tamil Nadu and 15,386 in Madhya Pradesh. Four states - Maharashtra, Tamil Nadu, Karnataka, West Bengal - together accounted for nearly half of the total suicides reported in the country.
 ### Suicide in India
