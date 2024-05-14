@@ -1,5 +1,5 @@
 # Amazon Laptop Prices Analysis
-### Data Analysis of suicides in India
+### Data Analysis Amazon Laptop Prices
 This dataset consists of comprehensive collection of latest available laptops scraped from Amazon.com. The data includes product details such as the rating, price, operating system, title, review count, and display size. This dataset comprises approximately 4.5K data points, each representing a unique laptop listing, and includes 14 distinct features.
 ### Required libraries
 - Numpy
