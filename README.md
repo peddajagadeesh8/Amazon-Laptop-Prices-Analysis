@@ -1,6 +1,6 @@
 # Salary-Analysis
 ## Purpose
-In a Python project, a "Salary-Analysis" dataset is like a treasure trove of information about how much people earn in different jobs and places. With this dataset, you can do many things. You can dig into the data to understand how salaries are spread out—some people earn more, some less—and what factors might influence how much someone gets paid, like education or where they work. You can also use the data to predict how much someone might earn based on these factors, which could be helpful for businesses or job seekers. It's like having a map to navigate through the world of salaries, helping you make decisions about jobs or negotiate better pay.
+The "Salary-Analysis" dataset in a Python project serves to explore and analyze salary-related information. It provides valuable insights into factors influencing salaries, such as education level, experience, or industry. By leveraging this dataset, the project aims to understand salary trends, identify patterns, and make informed decisions regarding compensation strategies or career choices.
 
 ## Table of Contents
 1. **Introduction**
