@@ -1,6 +1,6 @@
 # Salary-Analysis
 ## Purpose
-The purpose of analyzing laptop prices on Amazon is to understand how much laptops cost on the platform and what factors influence those prices. This analysis helps consumers make informed decisions about which laptop to buy by providing insights into pricing trends, variations between different models, and the impact of factors like brand, specifications, and geographical location on prices. In simple terms, it's about helping people figure out the best value for their money when shopping for laptops online.
+In a Python project, a "Salary-Analysis" dataset is like a treasure trove of information about how much people earn in different jobs and places. With this dataset, you can do many things. You can dig into the data to understand how salaries are spread out—some people earn more, some less—and what factors might influence how much someone gets paid, like education or where they work. You can also use the data to predict how much someone might earn based on these factors, which could be helpful for businesses or job seekers. It's like having a map to navigate through the world of salaries, helping you make decisions about jobs or negotiate better pay.
 
 ## Table of Contents
 1. **Introduction**
